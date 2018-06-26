@@ -1,0 +1,69 @@
+
+
+/*@import url('https://fonts.googleapis.com/css?family=Hanalei+Fill');
+*,
+html,
+body{
+font-family: 'Hanalei Fill', cursive;
+}*/
+
+@import url('https://fonts.googleapis.com/css?family=Pacifico|Shadows+Into+Light');
+*,
+html,
+body{
+font-family: 'Shadows Into Light', cursive;
+
+background-color: #f4f4f2
+
+height 1500px;
+
+}
+
+div{
+/*width: 20%;*/
+margin:10px;
+border:solid 3px black;
+/*padding:20px 10px 15px 30px;*/
+color: #fff;
+/*max-height: 200px; */
+}
+.row{
+	display: inline-block;
+}
+
+/*	background-color: red;
+	border: solid 3px black;
+	padding: 20px 10px 15px 30px;  /* 4 valores arriba, derecha, abajo izquierda. 1 valor todo. 2 valores arriba-abajo, derecha-izquierda	 */
+	background-color: #ff0000;
+	/*overflow: hidden;*/
+	display: block;
+	width: 30%;
+	float: left;
+
+	.caja1 {
+
+	background-color: #ff7b3b;
+}
+
+.caja2 {
+	background-color: #ffeb3b;
+	/*overflow: auto;
+	position: relative;
+	top: 20PX;
+	left: 20px;*/
+	display: inline-block;
+	width: 30%;
+}
+
+.caja3 {
+	background-color: #3f51b5; 
+	/*overflow: visible;
+	position: fixed;
+	top: 20PX;
+	height: 100px;
+	overflow: hidden;
+	display: inline; */
+
+}
+
+/* propiedades */
